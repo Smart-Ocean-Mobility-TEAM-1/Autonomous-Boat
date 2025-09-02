@@ -1,6 +1,0 @@
-[0.000000] (-) TimerEvent: {}
-[0.000694] (-) JobUnselected: {'identifier': 'realsense2_camera'}
-[0.000764] (-) JobUnselected: {'identifier': 'realsense2_camera_msgs'}
-[0.000795] (-) JobUnselected: {'identifier': 'realsense2_description'}
-[0.000819] (-) JobUnselected: {'identifier': 'sllidar_ros2'}
-[0.001103] (-) EventReactorShutdown: {}

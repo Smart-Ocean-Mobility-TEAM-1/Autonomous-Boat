@@ -1,9 +1,0 @@
-/root/ros2_ws/build/sensor_launch/CMakeFiles/uninstall.dir
-/root/ros2_ws/build/sensor_launch/CMakeFiles/sensor_launch_uninstall.dir
-/root/ros2_ws/build/sensor_launch/CMakeFiles/test.dir
-/root/ros2_ws/build/sensor_launch/CMakeFiles/edit_cache.dir
-/root/ros2_ws/build/sensor_launch/CMakeFiles/rebuild_cache.dir
-/root/ros2_ws/build/sensor_launch/CMakeFiles/list_install_components.dir
-/root/ros2_ws/build/sensor_launch/CMakeFiles/install.dir
-/root/ros2_ws/build/sensor_launch/CMakeFiles/install/local.dir
-/root/ros2_ws/build/sensor_launch/CMakeFiles/install/strip.dir
