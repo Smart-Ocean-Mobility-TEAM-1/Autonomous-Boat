@@ -1,0 +1,31 @@
+[1.164s] Invoking command in '/root/ros2_ws/src/boat_control': PYTHONPATH=/root/ros2_ws/build/boat_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/boat_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/boat_control build --build-base /root/ros2_ws/build/boat_control/build install --record /root/ros2_ws/build/boat_control/install.log --single-version-externally-managed
+[1.524s] running egg_info
+[1.526s] creating ../../build/boat_control/boat_control.egg-info
+[1.526s] writing ../../build/boat_control/boat_control.egg-info/PKG-INFO
+[1.527s] writing dependency_links to ../../build/boat_control/boat_control.egg-info/dependency_links.txt
+[1.528s] writing entry points to ../../build/boat_control/boat_control.egg-info/entry_points.txt
+[1.528s] writing requirements to ../../build/boat_control/boat_control.egg-info/requires.txt
+[1.528s] writing top-level names to ../../build/boat_control/boat_control.egg-info/top_level.txt
+[1.529s] writing manifest file '../../build/boat_control/boat_control.egg-info/SOURCES.txt'
+[1.534s] reading manifest file '../../build/boat_control/boat_control.egg-info/SOURCES.txt'
+[1.535s] writing manifest file '../../build/boat_control/boat_control.egg-info/SOURCES.txt'
+[1.535s] running build
+[1.535s] running build_py
+[1.535s] creating /root/ros2_ws/build/boat_control/build
+[1.535s] creating /root/ros2_ws/build/boat_control/build/lib
+[1.535s] creating /root/ros2_ws/build/boat_control/build/lib/boat_control
+[1.535s] copying boat_control/__init__.py -> /root/ros2_ws/build/boat_control/build/lib/boat_control
+[1.536s] copying boat_control/keyboard_teleop.py -> /root/ros2_ws/build/boat_control/build/lib/boat_control
+[1.536s] running install
+[1.536s] running install_lib
+[1.538s] creating /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control
+[1.538s] copying /root/ros2_ws/build/boat_control/build/lib/boat_control/__init__.py -> /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control
+[1.538s] copying /root/ros2_ws/build/boat_control/build/lib/boat_control/keyboard_teleop.py -> /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control
+[1.539s] byte-compiling /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control/__init__.py to __init__.cpython-310.pyc
+[1.539s] byte-compiling /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control/keyboard_teleop.py to keyboard_teleop.cpython-310.pyc
+[1.541s] running install_egg_info
+[1.545s] Copying ../../build/boat_control/boat_control.egg-info to /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control-0.0.0-py3.10.egg-info
+[1.546s] running install_scripts
+[1.580s] Installing keyboard_teleop script to /root/ros2_ws/install/boat_control/bin
+[1.581s] writing list of installed files to '/root/ros2_ws/build/boat_control/install.log'
+[1.660s] Invoked command in '/root/ros2_ws/src/boat_control' returned '0': PYTHONPATH=/root/ros2_ws/build/boat_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/boat_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/boat_control build --build-base /root/ros2_ws/build/boat_control/build install --record /root/ros2_ws/build/boat_control/install.log --single-version-externally-managed

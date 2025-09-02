@@ -1,0 +1,1 @@
+/root/ros2_ws/src/sllidar_ros2/launch/install/_local_setup_util_ps1.py

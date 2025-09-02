@@ -1,0 +1,3 @@
+[console_scripts]
+laser_scan_move = laser_scan_reader.laser_scan_move:main
+

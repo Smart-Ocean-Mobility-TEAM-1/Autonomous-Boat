@@ -1,0 +1,12 @@
+source;share/laser_scan_reader/hook/path.ps1
+source;share/laser_scan_reader/hook/path.dsv
+source;share/laser_scan_reader/hook/path.sh
+source;share/laser_scan_reader/hook/pythonpath.ps1
+source;share/laser_scan_reader/hook/pythonpath.dsv
+source;share/laser_scan_reader/hook/pythonpath.sh
+source;share/laser_scan_reader/hook/pythonscriptspath.ps1
+source;share/laser_scan_reader/hook/pythonscriptspath.dsv
+source;share/laser_scan_reader/hook/pythonscriptspath.sh
+source;share/laser_scan_reader/hook/ament_prefix_path.ps1
+source;share/laser_scan_reader/hook/ament_prefix_path.dsv
+source;share/laser_scan_reader/hook/ament_prefix_path.sh

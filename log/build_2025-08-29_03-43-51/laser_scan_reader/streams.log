@@ -1,0 +1,37 @@
+[0.864s] Invoking command in '/root/ros2_ws/src/laser_scan_reader': PYTHONPATH=/root/ros2_ws/build/laser_scan_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/laser_scan_reader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/laser_scan_reader build --build-base /root/ros2_ws/build/laser_scan_reader/build install --record /root/ros2_ws/build/laser_scan_reader/install.log --single-version-externally-managed install_data
+[1.146s] running egg_info
+[1.147s] creating ../../build/laser_scan_reader/laser_scan_reader.egg-info
+[1.147s] writing ../../build/laser_scan_reader/laser_scan_reader.egg-info/PKG-INFO
+[1.148s] writing dependency_links to ../../build/laser_scan_reader/laser_scan_reader.egg-info/dependency_links.txt
+[1.148s] writing entry points to ../../build/laser_scan_reader/laser_scan_reader.egg-info/entry_points.txt
+[1.148s] writing requirements to ../../build/laser_scan_reader/laser_scan_reader.egg-info/requires.txt
+[1.148s] writing top-level names to ../../build/laser_scan_reader/laser_scan_reader.egg-info/top_level.txt
+[1.149s] writing manifest file '../../build/laser_scan_reader/laser_scan_reader.egg-info/SOURCES.txt'
+[1.151s] reading manifest file '../../build/laser_scan_reader/laser_scan_reader.egg-info/SOURCES.txt'
+[1.152s] writing manifest file '../../build/laser_scan_reader/laser_scan_reader.egg-info/SOURCES.txt'
+[1.152s] running build
+[1.152s] running build_py
+[1.152s] creating /root/ros2_ws/build/laser_scan_reader/build
+[1.153s] creating /root/ros2_ws/build/laser_scan_reader/build/lib
+[1.153s] creating /root/ros2_ws/build/laser_scan_reader/build/lib/laser_scan_reader
+[1.153s] copying laser_scan_reader/laser_scan_move.py -> /root/ros2_ws/build/laser_scan_reader/build/lib/laser_scan_reader
+[1.153s] copying laser_scan_reader/__init__.py -> /root/ros2_ws/build/laser_scan_reader/build/lib/laser_scan_reader
+[1.153s] running install
+[1.154s] running install_lib
+[1.155s] creating /root/ros2_ws/install/laser_scan_reader/lib/python3.10/site-packages/laser_scan_reader
+[1.155s] copying /root/ros2_ws/build/laser_scan_reader/build/lib/laser_scan_reader/laser_scan_move.py -> /root/ros2_ws/install/laser_scan_reader/lib/python3.10/site-packages/laser_scan_reader
+[1.155s] copying /root/ros2_ws/build/laser_scan_reader/build/lib/laser_scan_reader/__init__.py -> /root/ros2_ws/install/laser_scan_reader/lib/python3.10/site-packages/laser_scan_reader
+[1.156s] byte-compiling /root/ros2_ws/install/laser_scan_reader/lib/python3.10/site-packages/laser_scan_reader/laser_scan_move.py to laser_scan_move.cpython-310.pyc
+[1.157s] byte-compiling /root/ros2_ws/install/laser_scan_reader/lib/python3.10/site-packages/laser_scan_reader/__init__.py to __init__.cpython-310.pyc
+[1.157s] running install_data
+[1.157s] creating /root/ros2_ws/install/laser_scan_reader/share/ament_index
+[1.157s] creating /root/ros2_ws/install/laser_scan_reader/share/ament_index/resource_index
+[1.157s] creating /root/ros2_ws/install/laser_scan_reader/share/ament_index/resource_index/packages
+[1.157s] copying resource/laser_scan_reader -> /root/ros2_ws/install/laser_scan_reader/share/ament_index/resource_index/packages
+[1.158s] copying package.xml -> /root/ros2_ws/install/laser_scan_reader/share/laser_scan_reader
+[1.158s] running install_egg_info
+[1.160s] Copying ../../build/laser_scan_reader/laser_scan_reader.egg-info to /root/ros2_ws/install/laser_scan_reader/lib/python3.10/site-packages/laser_scan_reader-0.0.0-py3.10.egg-info
+[1.162s] running install_scripts
+[1.193s] Installing laser_scan_move script to /root/ros2_ws/install/laser_scan_reader/bin
+[1.193s] writing list of installed files to '/root/ros2_ws/build/laser_scan_reader/install.log'
+[1.256s] Invoked command in '/root/ros2_ws/src/laser_scan_reader' returned '0': PYTHONPATH=/root/ros2_ws/build/laser_scan_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2_ws/install/laser_scan_reader/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/laser_scan_reader build --build-base /root/ros2_ws/build/laser_scan_reader/build install --record /root/ros2_ws/build/laser_scan_reader/install.log --single-version-externally-managed install_data

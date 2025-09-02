@@ -1,0 +1,29 @@
+running egg_info
+creating ../../build/boat_control/boat_control.egg-info
+writing ../../build/boat_control/boat_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/boat_control/boat_control.egg-info/dependency_links.txt
+writing entry points to ../../build/boat_control/boat_control.egg-info/entry_points.txt
+writing requirements to ../../build/boat_control/boat_control.egg-info/requires.txt
+writing top-level names to ../../build/boat_control/boat_control.egg-info/top_level.txt
+writing manifest file '../../build/boat_control/boat_control.egg-info/SOURCES.txt'
+reading manifest file '../../build/boat_control/boat_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/boat_control/boat_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /root/ros2_ws/build/boat_control/build
+creating /root/ros2_ws/build/boat_control/build/lib
+creating /root/ros2_ws/build/boat_control/build/lib/boat_control
+copying boat_control/__init__.py -> /root/ros2_ws/build/boat_control/build/lib/boat_control
+copying boat_control/keyboard_teleop.py -> /root/ros2_ws/build/boat_control/build/lib/boat_control
+running install
+running install_lib
+creating /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control
+copying /root/ros2_ws/build/boat_control/build/lib/boat_control/__init__.py -> /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control
+copying /root/ros2_ws/build/boat_control/build/lib/boat_control/keyboard_teleop.py -> /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control
+byte-compiling /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control/__init__.py to __init__.cpython-310.pyc
+byte-compiling /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control/keyboard_teleop.py to keyboard_teleop.cpython-310.pyc
+running install_egg_info
+Copying ../../build/boat_control/boat_control.egg-info to /root/ros2_ws/install/boat_control/lib/python3.10/site-packages/boat_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing keyboard_teleop script to /root/ros2_ws/install/boat_control/bin
+writing list of installed files to '/root/ros2_ws/build/boat_control/install.log'

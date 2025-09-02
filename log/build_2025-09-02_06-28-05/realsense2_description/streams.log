@@ -1,0 +1,52 @@
+[0.095s] Invoking command in '/root/ros2_ws/build/realsense2_description': CMAKE_PREFIX_PATH=/root/ros2_ws/install/realsense2_camera_msgs:/root/ros2_ws/install/sllidar_ros2:/root/ros2_ws/install/sensor_launch:/root/ros2_ws/install/realsense2_description:/root/ros2_ws/install/realsense2_camera:/root/ros2_ws/install/laser_scan_reader:/root/ros2_ws/install/boat_control:/opt/ros/humble LD_LIBRARY_PATH=/root/ros2_ws/install/realsense2_camera_msgs/lib:/root/ros2_ws/install/realsense2_camera/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /root/ros2_ws/build/realsense2_description -- -j4 -l4
+[0.194s] Invoked command in '/root/ros2_ws/build/realsense2_description' returned '0': CMAKE_PREFIX_PATH=/root/ros2_ws/install/realsense2_camera_msgs:/root/ros2_ws/install/sllidar_ros2:/root/ros2_ws/install/sensor_launch:/root/ros2_ws/install/realsense2_description:/root/ros2_ws/install/realsense2_camera:/root/ros2_ws/install/laser_scan_reader:/root/ros2_ws/install/boat_control:/opt/ros/humble LD_LIBRARY_PATH=/root/ros2_ws/install/realsense2_camera_msgs/lib:/root/ros2_ws/install/realsense2_camera/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /root/ros2_ws/build/realsense2_description -- -j4 -l4
+[0.211s] Invoking command in '/root/ros2_ws/build/realsense2_description': CMAKE_PREFIX_PATH=/root/ros2_ws/install/realsense2_camera_msgs:/root/ros2_ws/install/sllidar_ros2:/root/ros2_ws/install/sensor_launch:/root/ros2_ws/install/realsense2_description:/root/ros2_ws/install/realsense2_camera:/root/ros2_ws/install/laser_scan_reader:/root/ros2_ws/install/boat_control:/opt/ros/humble LD_LIBRARY_PATH=/root/ros2_ws/install/realsense2_camera_msgs/lib:/root/ros2_ws/install/realsense2_camera/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /root/ros2_ws/build/realsense2_description
+[0.240s] -- Install configuration: ""
+[0.240s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/launch
+[0.299s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/launch/launch_utils.py
+[0.314s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/launch/view_model.launch.py
+[0.329s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/meshes
+[0.338s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/meshes/d455.stl
+[0.493s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/meshes/d435.dae
+[1.363s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/meshes/l515.dae
+[3.449s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/meshes/plug.stl
+[3.492s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/meshes/d405.stl
+[3.531s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/meshes/d415.stl
+[4.862s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/meshes/plug_collision.stl
+[4.890s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/rviz
+[4.959s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/rviz/urdf.rviz
+[4.988s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf
+[5.021s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/test_r430_camera.urdf.xacro
+[5.052s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/test_d455_camera.urdf.xacro
+[5.077s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/test_d405_camera.urdf.xacro
+[5.102s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/_d455.urdf.xacro
+[5.125s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/_d405.urdf.xacro
+[5.141s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/test_d435_multiple_cameras.urdf.xacro
+[5.161s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/test_r410_camera.urdf.xacro
+[5.181s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/_usb_plug.urdf.xacro
+[5.211s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/_d435i_imu_modules.urdf.xacro
+[5.245s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/_r410.urdf.xacro
+[5.278s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/test_d435_camera.urdf.xacro
+[5.300s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/_materials.urdf.xacro
+[5.327s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/_r430.urdf.xacro
+[5.349s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/test_d415_camera.urdf.xacro
+[5.365s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/_d435.urdf.xacro
+[5.385s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/test_d435i_camera.urdf.xacro
+[5.414s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/_d415.urdf.xacro
+[5.440s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/urdf/_d435i.urdf.xacro
+[5.471s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/ament_index/resource_index/package_run_dependencies/realsense2_description
+[5.526s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/ament_index/resource_index/parent_prefix_path/realsense2_description
+[5.563s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/environment/ament_prefix_path.sh
+[5.606s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/environment/ament_prefix_path.dsv
+[5.623s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/environment/path.sh
+[5.660s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/environment/path.dsv
+[5.677s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/local_setup.bash
+[5.703s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/local_setup.sh
+[5.716s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/local_setup.zsh
+[5.745s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/local_setup.dsv
+[5.767s] -- Installing: /root/ros2_ws/install/realsense2_description/share/realsense2_description/package.dsv
+[5.790s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/ament_index/resource_index/packages/realsense2_description
+[5.808s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/cmake/realsense2_descriptionConfig.cmake
+[5.862s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/cmake/realsense2_descriptionConfig-version.cmake
+[5.873s] -- Up-to-date: /root/ros2_ws/install/realsense2_description/share/realsense2_description/package.xml
+[5.900s] Invoked command in '/root/ros2_ws/build/realsense2_description' returned '0': CMAKE_PREFIX_PATH=/root/ros2_ws/install/realsense2_camera_msgs:/root/ros2_ws/install/sllidar_ros2:/root/ros2_ws/install/sensor_launch:/root/ros2_ws/install/realsense2_description:/root/ros2_ws/install/realsense2_camera:/root/ros2_ws/install/laser_scan_reader:/root/ros2_ws/install/boat_control:/opt/ros/humble LD_LIBRARY_PATH=/root/ros2_ws/install/realsense2_camera_msgs/lib:/root/ros2_ws/install/realsense2_camera/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /root/ros2_ws/build/realsense2_description
