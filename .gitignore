@@ -4,3 +4,25 @@ logs/
 */logs/
 build/
 */build/
+
+# ROS2 log symlinks
+**/log/latest_build
+**/log/latest_*
+**/**/log/
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# IDE files
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+*~
+
+# ROS2 build artifacts
+build/
+install/
+log/

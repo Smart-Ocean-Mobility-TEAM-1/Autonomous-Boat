@@ -1,1 +1,1 @@
-/root/ros2_ws/install/realsense2_camera_msgs:/root/ros2_ws/install/sllidar_ros2:/opt/ros/humble
+/root/ros2_ws/install/sllidar_ros2:/root/ros2_ws/install/sensor_launch:/root/ros2_ws/install/realsense2_description:/root/ros2_ws/install/realsense2_camera:/root/ros2_ws/install/realsense2_camera_msgs:/root/ros2_ws/install/laser_scan_reader:/root/ros2_ws/install/boat_control:/opt/ros/humble
